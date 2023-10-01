@@ -76,6 +76,6 @@ email: ''
 highlight_name: true
 ---
 
-Wentao Guo is a CS MEng student in Cornell University. His research interests include improving model and data efficiency of foundation models, and generally building a scalable and efficient machine learning systems. He is fortunately advised by [Prof. Beidi Chen](https://www.andrew.cmu.edu/user/beidic/), [Prof. Chris De Sa](https://www.cs.cornell.edu/~cdesa/), and [Prof. Thorsten Joachims](https://www.cs.cornell.edu/people/tj/). He is a former developer lead in [Pathways project](https://www.pathways.cornell.edu) and a backend developer and tester lead in [CMSX team](https://www.cs.cornell.edu/Projects/cms/cmsx/). He also obtained his B.S. degree in CS with Honors in Cornell.
+Wentao Guo is a CS MEng student in Cornell University. His research interests include improving model and data efficiency of foundation models, and generally building a scalable and efficient machine learning systems. He is fortunately advised by [Prof. Chris De Sa](https://www.cs.cornell.edu/~cdesa/), and [Prof. Thorsten Joachims](https://www.cs.cornell.edu/people/tj/). He is a former developer lead in [Pathways project](https://www.pathways.cornell.edu) and a backend developer and tester lead in [CMSX team](https://www.cs.cornell.edu/Projects/cms/cmsx/). He also obtained his B.S. degree in CS with Honors in Cornell.
 
 {style="text-align: justify;"}

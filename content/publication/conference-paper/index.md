@@ -48,7 +48,7 @@ url_poster: 'https://docs.google.com/presentation/d/1FqOM5P4Mp5WdC54fNvLYnyK8TCR
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [CD-GraB Algorithm](cd-grab/PairBalance.drawio.jpg)'
+  caption: 'Image credit: CD-GraB Algorithm'
   focal_point: ''
   preview_only: false
 
