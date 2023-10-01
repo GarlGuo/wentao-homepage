@@ -11,22 +11,6 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: features
-    content:
-      title: Skills
-      items:
-        - name: R
-          description: 90%
-          icon: r-project
-          icon_pack: fab
-        - name: Statistics
-          description: 100%
-          icon: chart-line
-          icon_pack: fas
-        - name: Photography
-          description: 10%
-          icon: camera-retro
-          icon_pack: fas
   - block: experience
     content:
       title: Experience
@@ -39,27 +23,34 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Developer Lead
+          company: Pathways project
           company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
+          company_logo: org-pathways
+          location: Ithaca, NY
+          date_start: '2021-06'
+          date_end: '2023-05'
           description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+              I constructed backend codebases with Flask and MongoDB, designed search algorithms that provided diverse suggestions on course enrollment choices, and iterated search algorithms from students’ feedback. I deployed and maintained the [website](https://pathways.cornell.edu/) to serve 3000 Cornell students. 
+      
+        - title: CMSX Backend Developer & Tester Lead
+          company: Cornell University
           company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          company_logo: org-Cornell
+          location: Ithaca, NY
+          date_start: '2019-09'
+          date_end: '2022-05'
+          description: I fixed 10s MySQL and Java production bugs on backend, created 75 and reviewed 76 peer’s pull requests, and supervised new members and held weekly meetings to manage the team. The [website](https://www.cs.cornell.edu/Projects/cms/cmsx/) serves more than 8000 students in over 100 courses in Cornell University..
+
+        - title: Game Development Intern
+          company: Tencent
+          company_url: ''
+          company_logo: org-Tencent
+          location: Shenzhen, China
+          date_start: '2020-06'
+          date_end: '2020-08'
+          description: I programmed game modules in Unity with C#, created tools to accelerate project loading and compilation time, and analyzed the performance of C# libraries on serialization and deserialization.
+
     design:
       columns: '2'
   - block: accomplishments
@@ -145,8 +136,8 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
+        - name: Machine Learning
+          tag: Machine Learning
         - name: Other
           tag: Demo
     design:
@@ -188,21 +179,12 @@ sections:
     design:
       columns: '2'
       view: citation
-  - block: collection
-    id: talks
+  - block: markdown
     content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event
-    design:
-      columns: '2'
-      view: compact
-  - block: tag_cloud
-    content:
-      title: Popular Topics
-    design:
-      columns: '2'
+      title: Academic service
+      subtitle: ''
+      text: |-
+        NeurIPS'23, ICLR'24 reviewer
   - block: contact
     id: contact
     content:
@@ -211,33 +193,25 @@ sections:
       text: |-
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
-      email: test@example.org
-      phone: 888 888 88 88
-      appointment_url: 'https://calendly.com'
+      email: wg247@cornell.edu
+      phone: 607 262 9493
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
+        street: 120 Valentine Place
+        city: Ithaca
+        region: NY
+        postcode: '14850'
         country: United States
         country_code: US
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-      office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
+      directions: Room 3042
       contact_links:
         - icon: twitter
           icon_pack: fab
           name: DM Me
           link: 'https://twitter.com/Twitter'
-        - icon: skype
-          icon_pack: fab
-          name: Skype Me
-          link: 'skype:echo123?call'
         - icon: video
           icon_pack: fas
-          name: Zoom Me
-          link: 'https://zoom.com'
+          name: Zoom
+          link: 'https://cornell.zoom.us/j/9666296642?pwd=VEtjTTdCeTRtcWxsUmk5NTlMQ1ZuUT09'
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
