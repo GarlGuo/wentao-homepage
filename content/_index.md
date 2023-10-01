@@ -40,17 +40,6 @@ sections:
       view: compact
       columns: '2'
 
-  - block: collection
-    id: featured
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-    design:
-      columns: '2'
-      view: card
-  
   - block: experience
     id: experience
     content:

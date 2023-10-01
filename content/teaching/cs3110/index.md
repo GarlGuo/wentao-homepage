@@ -1,12 +1,12 @@
 ---
-title: Large Scale Machine Learning Systems 
-summary: Graduate Teaching Assistant
+title: Data Structures and Functional Programming
+summary: Undergraduate Course Consultant
 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2023-08-21'
-date_end: '2023-12-15'
+date: '2021-08-21'
+date_end: '2021-12-31'
 all_day: false
 
 authors: []

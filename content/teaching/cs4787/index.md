@@ -1,15 +1,16 @@
 ---
-title: Teaching
-cms_exclude: true
+title: Large Scale Machine Learning Systems 
+summary: Graduate Teaching Assistant
 
-# View.
-#   1 = List
-#   2 = Compact
-#   3 = Card
-view: 2
 
-# Optional header image (relative to `static/media/` folder).
-header:
-  caption: ''
-  image: ''
+# Talk start and end times.
+#   End time can optionally be hidden by prefixing the line with `#`.
+date: '2023-08-21'
+date_end: '2023-12-15'
+all_day: false
+
+authors: []
+tags: []
+
+
 ---
