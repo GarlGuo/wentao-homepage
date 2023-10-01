@@ -24,7 +24,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Developer Lead
-          company: Pathways project
+          company: [Pathways project, Cornell University](https://pathways.cornell.edu/)
           company_url: ''
           company_logo: pathways
           location: Ithaca, NY
@@ -34,7 +34,7 @@ sections:
               I constructed backend codebases with Flask and MongoDB, designed search algorithms that provided diverse suggestions on course enrollment choices, and iterated search algorithms from students’ feedback. I deployed and maintained the [website](https://pathways.cornell.edu/) to serve 3000 Cornell students. 
       
         - title: CMSX Backend Developer & Tester Lead
-          company: Cornell University
+          company: [CMS Project, Cornell University](https://www.cs.cornell.edu/Projects/cms/cmsx/)
           company_url: ''
           company_logo: cmsx
           location: Ithaca, NY
@@ -108,14 +108,6 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
-  - block: markdown
-    content:
-      title: Gallery
-      subtitle: ''
-      text: |-
-        {{< gallery album="demo" >}}
-    design:
-      columns: '1'
   - block: collection
     id: featured
     content:
@@ -147,13 +139,15 @@ sections:
       subtitle: ''
       text: |-
         NeurIPS'23, ICLR'24 reviewer
+    design:
+      columns: '2'
   - block: contact
     id: contact
     content:
       title: Contact
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+        I am looking for a PhD position starting in Fall 2024. Please feel free to contact me!
       # Contact (add or remove contact options as necessary)
       email: wg247@cornell.edu
       phone: 607 262 9493
@@ -168,7 +162,7 @@ sections:
       contact_links:
         - icon: twitter
           icon_pack: fab
-          name: DM Me
+          name: Twitter
           link: 'https://twitter.com/Twitter'
         - icon: video
           icon_pack: fas
