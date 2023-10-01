@@ -1,5 +1,5 @@
 ---
-title: 'CD-GraB: Coordinating Distributed Example Orders for Provably Accelerated Training'
+title: 'MCTensor: A High-Precision Deep Learning Library with Multi-Component Floating-Point'
 
 authors:
   - Tao Yu
