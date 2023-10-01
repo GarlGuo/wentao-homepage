@@ -47,7 +47,6 @@ sections:
       filters:
         folders:
           - publication
-          - grab
         featured_only: true
     design:
       columns: '2'
