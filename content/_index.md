@@ -28,8 +28,8 @@ sections:
           company_url: ''
           company_logo: pathways
           location: Ithaca, NY
-          date_start: '2021-06'
-          date_end: '2023-05'
+          date_start: '2021-06-01'
+          date_end: '2023-05-31'
           description: |2-
               I constructed backend codebases with Flask and MongoDB, designed search algorithms that provided diverse suggestions on course enrollment choices, and iterated search algorithms from students’ feedback. I deployed and maintained the [website](https://pathways.cornell.edu/) to serve 3000 Cornell students. 
       
@@ -38,8 +38,8 @@ sections:
           company_url: ''
           company_logo: cmsx
           location: Ithaca, NY
-          date_start: '2019-09'
-          date_end: '2022-05'
+          date_start: '2019-09-01'
+          date_end: '2022-05-31'
           description: I fixed 10s MySQL and Java production bugs on backend, created 75 and reviewed 76 peer’s pull requests, and supervised new members and held weekly meetings to manage the team. The [website](https://www.cs.cornell.edu/Projects/cms/cmsx/) serves more than 8000 students in over 100 courses in Cornell University..
 
         - title: Game Development Intern
@@ -47,8 +47,8 @@ sections:
           company_url: ''
           company_logo: qq-mobile
           location: Shenzhen, China
-          date_start: '2020-06'
-          date_end: '2020-08'
+          date_start: '2020-06-15'
+          date_end: '2020-08-15'
           description: I programmed game modules in Unity with C#, created tools to accelerate project loading and compilation time, and analyzed the performance of C# libraries on serialization and deserialization.
 
     design:
