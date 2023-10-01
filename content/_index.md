@@ -131,7 +131,7 @@ sections:
       filters:
         folders:
           - publication
-        exclude_featured: true
+        exclude_featured: false
     design:
       columns: '2'
       view: citation
@@ -148,16 +148,13 @@ sections:
   - block: collection
     id: teaching
     content:
-      title: Teaching experience
-      subtitle: ''
-      text: |-
-        | Course Title | Role  | Time  |
-        | :---:        | :---: | :---: |
-        | Large Scale Machine Learning Systems | Graduate Teaching Assistant  | Aug 2023 - Dec 2023 |
-        | Intro to ML   | Graduate Teaching Assistant  | Jan 2023 - May 2023   |
-        | Data Structures and Functional Programming | Undergraduate Course Consultant |  Aug 2021 - Dec 2021
+      title: Teaching Experience
+      filters:
+        folders:
+          - teaching
     design:
       columns: '2'
+      view: compact
 
   - block: contact
     id: contact
