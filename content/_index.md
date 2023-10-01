@@ -78,6 +78,32 @@ sections:
       # Choose a layout view
       view: compact
       columns: '2'
+  - block: collection
+    id: featured
+    content:
+      title: Featured Publications
+      filters:
+        folders:
+          - publication
+          - grab
+        featured_only: true
+    design:
+      columns: '2'
+      view: card
+  - block: collection
+    content:
+      title: Recent Publications
+      text: |-
+        {{% callout note %}}
+        Quickly discover relevant content by [filtering publications](./publication/).
+        {{% /callout %}}
+      filters:
+        folders:
+          - publication
+        exclude_featured: true
+    design:
+      columns: '2'
+      view: citation
   - block: portfolio
     id: projects
     content:
@@ -105,32 +131,6 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
-  - block: collection
-    id: featured
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-          - grab
-        featured_only: true
-    design:
-      columns: '2'
-      view: card
-  - block: collection
-    content:
-      title: Recent Publications
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
-      filters:
-        folders:
-          - publication
-        exclude_featured: true
-    design:
-      columns: '2'
-      view: citation
   - block: markdown
     content:
       title: Academic service
@@ -150,13 +150,12 @@ sections:
       email: wg247@cornell.edu
       phone: 607 262 9493
       address:
-        street: 120 Valentine Place
+        street: Room 3042, 120 Valentine Place
         city: Ithaca
         region: NY
         postcode: '14850'
         country: United States
         country_code: US
-      directions: Room 3042
       contact_links:
         - icon: twitter
           icon_pack: fab
@@ -168,14 +167,6 @@ sections:
           link: 'https://cornell.zoom.us/j/9666296642?pwd=VEtjTTdCeTRtcWxsUmk5NTlMQ1ZuUT09'
       # Automatically link email and phone or display as text?
       autolink: true
-      # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
     design:
       columns: '2'
 ---
