@@ -22,9 +22,12 @@ main:
   - name: Projects
     url: '#projects'
     weight: 15
+  - name: Teaching
+    url: '#teaching'
+    weight: 16
   - name: Contact
     url: '#contact'
-    weight: 16
+    weight: 17
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.

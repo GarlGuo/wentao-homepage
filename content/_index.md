@@ -144,7 +144,9 @@ sections:
         NeurIPS'23, ICLR'24 reviewer
     design:
       columns: '2'
-  - block: markdown
+
+  - block: accomplishments
+    id: teaching
     content:
       title: Teaching experience
       subtitle: ''
