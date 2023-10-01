@@ -1,47 +1,41 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Wentao Guo 郭文韬
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Wentao
+last_name: Guo
 
-# Status emoji
-status:
-  icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: CS MEng student @ Cornell
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Cornell University
+    url: https://www.cs.cornell.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include the model efficiency and data efficiency of foundation model training.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Machine Learning
+  - Machine Learning Systems
+
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MEng in Computer Science
+      institution: Cornell University
+      year: 2023
+    - course: B.S. in Computer Science with Honors
+      institution: Cornell University
+      year: 2022
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -53,25 +47,25 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/WentaoGuo7
     label: Follow me on Twitter
     display:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=7uHQMsYAAAAJ&hl=en&oi=ao
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/GarlGuo
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/wentao-guo-11b03217b/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: https://drive.google.com/file/d/10I8VaW09t1j1pvrXZcAe_kDQq_w3RhdE/view
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -80,5 +74,6 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Wentao Guo is a CS MEng student in Cornell University. His research interests include improving model and data efficiency of foundation models, and generally building a scalable and efficient machine learning systems. He is fortunately advised by [Prof. Beidi Chen](https://www.andrew.cmu.edu/user/beidic/), [Prof. Chris De Sa](https://www.cs.cornell.edu/~cdesa/), and [Prof. Thorsten Joachims](https://www.cs.cornell.edu/people/tj/). He is a former developer lead in [Pathways project](www.pathways.edu) and a backend developer and tester in [CMSX team](https://www.cs.cornell.edu/Projects/cms/cmsx/). He also obtained his B.S. degree in CS with Honors in Cornell.
+
 {style="text-align: justify;"}
