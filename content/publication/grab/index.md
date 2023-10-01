@@ -7,11 +7,11 @@ authors:
   - Christopher De Sa
 
 
-date: '2022'
+date: '2022-12-01'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2022'
+publishDate: '2022-12-01'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
