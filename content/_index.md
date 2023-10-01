@@ -51,9 +51,6 @@ sections:
           date_end: '2020-08-15'
           description: I programmed game modules in Unity with C#, created tools to accelerate project loading and compilation time, and analyzed the performance of C# libraries on serialization and deserialization.
 
-    design:
-      columns: '2'
-
   - block: collection
     id: posts
     content:
