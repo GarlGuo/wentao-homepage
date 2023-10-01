@@ -40,7 +40,7 @@ sections:
           location: Ithaca, NY
           date_start: '2019-09-01'
           date_end: '2022-05-31'
-          description: I fixed 10s MySQL and Java production bugs on backend, created 75 and reviewed 76 peer’s pull requests, and supervised new members and held weekly meetings to manage the team. The [website](https://www.cs.cornell.edu/Projects/cms/cmsx/) serves more than 8000 students in over 100 courses in Cornell University..
+          description: I fixed 10s MySQL and Java production bugs on backend, created 75 and reviewed 76 peer’s pull requests, and supervised new members and held weekly meetings to manage the team. The [website](https://www.cs.cornell.edu/Projects/cms/cmsx/) serves more than 8000 students in over 100 courses in Cornell University.
 
         - title: Game Development Intern
           company: Tencent
@@ -112,6 +112,7 @@ sections:
       filters:
         folders:
           - publication
+          - grab
         featured_only: true
     design:
       columns: '2'
