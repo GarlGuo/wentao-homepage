@@ -155,7 +155,6 @@ sections:
       email: wg247@cornell.edu
       phone: 607 262 9493
       address:
-        street: Room 3042, 120 Valentine Place
         city: Ithaca
         region: NY
         postcode: '14850'
