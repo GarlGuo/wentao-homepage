@@ -46,8 +46,7 @@ sections:
       title: Featured Publications
       filters:
         folders:
-          - publication/cd-grab
-        featured_only: true
+          - publication
     design:
       columns: '2'
       view: card
@@ -122,6 +121,7 @@ sections:
       flip_alt_rows: false
 
   - block: collection
+    id: publications
     content:
       title: Recent Publications
       text: |-
@@ -131,7 +131,7 @@ sections:
       filters:
         folders:
           - publication
-        exclude_featured: false
+        exclude_featured: true
     design:
       columns: '2'
       view: citation

@@ -14,7 +14,7 @@ main:
     url: '#posts'
     weight: 12
   - name: Publications
-    url: '#featured'
+    url: '#publications'
     weight: 13
   - name: Experience
     url: '#experience'
