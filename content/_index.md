@@ -53,7 +53,7 @@ sections:
       columns: '2'
       view: card
   
-- block: experience
+  - block: experience
     id: experience
     content:
       title: Experience
