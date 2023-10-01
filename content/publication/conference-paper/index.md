@@ -11,9 +11,9 @@ authors:
 
 # Author notes (optional)
 author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
-  - 'Equal contribution'
+  - 'Equal contribution, alphabetical order'
+  - 'Equal contribution, alphabetical order'
+  - 'Equal contribution, alphabetical order'
 
 date: '2023'
 doi: ''
