@@ -26,7 +26,7 @@ sections:
         - title: Developer Lead
           company: Pathways project
           company_url: ''
-          company_logo: pathways.png
+          company_logo: pathways
           location: Ithaca, NY
           date_start: '2021-06'
           date_end: '2023-05'
@@ -36,7 +36,7 @@ sections:
         - title: CMSX Backend Developer & Tester Lead
           company: Cornell University
           company_url: ''
-          company_logo: cmsx.png
+          company_logo: cmsx
           location: Ithaca, NY
           date_start: '2019-09'
           date_end: '2022-05'
@@ -45,7 +45,7 @@ sections:
         - title: Game Development Intern
           company: Tencent
           company_url: ''
-          company_logo: qq-mobile.jpg
+          company_logo: qq-mobile
           location: Shenzhen, China
           date_start: '2020-06'
           date_end: '2020-08'
