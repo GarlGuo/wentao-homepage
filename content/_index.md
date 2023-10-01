@@ -24,7 +24,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Developer Lead
-          company: [Pathways project, Cornell University](https://pathways.cornell.edu/)
+          company: Pathways project, Cornell University
           company_url: ''
           company_logo: pathways
           location: Ithaca, NY
@@ -34,7 +34,7 @@ sections:
               I constructed backend codebases with Flask and MongoDB, designed search algorithms that provided diverse suggestions on course enrollment choices, and iterated search algorithms from students’ feedback. I deployed and maintained the [website](https://pathways.cornell.edu/) to serve 3000 Cornell students. 
       
         - title: CMSX Backend Developer & Tester Lead
-          company: [CMS Project, Cornell University](https://www.cs.cornell.edu/Projects/cms/cmsx/)
+          company: CMS Project, Cornell University
           company_url: ''
           company_logo: cmsx
           location: Ithaca, NY
