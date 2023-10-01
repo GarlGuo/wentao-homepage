@@ -32,10 +32,10 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: MEng in Computer Science
+    - course: MEng in Computer Science, GPA 4.031
       institution: Cornell University
       year: 2023
-    - course: B.S. in Computer Science with Honors
+    - course: B.S. in Computer Science with Honors, GPA 3.890
       institution: Cornell University
       year: 2022
 
