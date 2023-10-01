@@ -145,20 +145,20 @@ sections:
     design:
       columns: '2'
 
-  - block: accomplishments
+  - block: collection
     id: teaching
     content:
       title: Teaching experience
       subtitle: ''
-      items: 
-        - title: CS 4787, Large Scale Machine Learning Systems
-          subtitle: Graduate Teaching Assistant
-        - title: CS 4780, Intro to ML
-          subtitle: Graduate Teaching Assistant
-        - title: CS 3110, Data Structures and Functional Programming
-          subtitle: Undergraduate Course Consultant
+      text: |-
+        | Course Title | Role  | Time  |
+        | :---:        | :---: | :---: |
+        | Large Scale Machine Learning Systems | Graduate Teaching Assistant  | Aug 2023 - Dec 2023 |
+        | Intro to ML   | Graduate Teaching Assistant  | Jan 2023 - May 2023   |
+        | Data Structures and Functional Programming | Undergraduate Course Consultant |  Aug 2021 - Dec 2021
     design:
       columns: '2'
+
   - block: contact
     id: contact
     content:
