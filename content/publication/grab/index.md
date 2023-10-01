@@ -27,7 +27,7 @@ abstract: Random reshuffling, which randomly permutes the dataset each epoch, is
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
