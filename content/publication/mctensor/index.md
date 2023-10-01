@@ -2,36 +2,35 @@
 title: 'CD-GraB: Coordinating Distributed Example Orders for Provably Accelerated Training'
 
 authors:
-  - A. Feder Cooper
+  - Tao Yu
   - Wentao Guo
-  - Khiem Pham
+  - Jianan Canal Li
   - Tiancheng Yuan
-  - Charlie F. Ruan
-  - Yucheng Lu
   - Christopher De Sa
 
 # Author notes (optional)
 author_notes:
-  - 'Equal contribution, alphabetical order'
-  - 'Equal contribution, alphabetical order'
-  - 'Equal contribution, alphabetical order'
+  - 'Equal contribution'
+  - 'Equal contribution'
+  - 'Equal contribution'
+  - 'Equal contribution'
 
-date: '2023'
+date: '2022-06-15'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2023'
+publishDate: '2022-06-15'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['paper-conference']
+publication_types: ['article']
 
 # Publication name and optional abbreviated publication name.
-publication: In Thirty-Seventh Annual Conference on Neural Information Processing Systems
-publication_short: In NeurIPS'23
+publication: In Hardware-aware Efficient Training Workshop in The Thirty-ninth International Conference on Machine Learning
+publication_short: In HAET workshop at ICML'22
 
-abstract: Recent research on online Gradient Balancing (GraB) has revealed that there exist permutation-based example orderings that are guaranteed to outperform random reshuffling (RR). Whereas RR arbitrarily permutes training examples, GraB leverages stale gradients from prior epochs to order examples — achieving a provably faster convergence rate than RR. However, GraB is limited by design. While it demonstrates an impressive ability to scale-up training on centralized data, it does not naturally extend to modern distributed ML workloads. We therefore propose Coordinated Distributed GraB (CD-GraB), which uses insights from prior work on kernel thinning to translate the benefits of provably faster permutation-based example ordering to distributed settings. With negligible overhead, CD-GraB exhibits a linear speedup in convergence rate over centralized GraB and outperforms baselines empirically, including distributed RR, on a variety of benchmark tasks.
+abstract: In this paper, we introduce MCTensor, a library based on PyTorch for providing general-purpose and high-precision arithmetic for DL training. MCTensor is used in the same way as PyTorch Tensor. We implement multiple basic, matrix-level computation operators and NN modules for MCTensor with identical PyTorch interface. Our algorithms achieve high precision computation and also benefits from heavily-optimized PyTorch floating-point arithmetic. We evaluate MCTensor arithmetic against PyTorch native arithmetic for a series of tasks, where models using MCTensor in float16 would match or outperform the PyTorch model with float32 or float64 precision.
 
 tags: []
 
@@ -43,13 +42,16 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/pdf/2302.00845.pdf'
-url_poster: 'https://docs.google.com/presentation/d/1FqOM5P4Mp5WdC54fNvLYnyK8TCRhfqHftg7ayFJrBA8'
+url_pdf: 'https://arxiv.org/pdf/2207.08867.pdf'
+url_poster: 'https://docs.google.com/presentation/d/1cvsQn8ArPN_tHx6Ntw1JrBUy-iJ1HsX1LIGNgCT6Wb0'
+url_slide: 'https://docs.google.com/presentation/d/1Gov3DrqyGZZa8whCPPljo1ft42EFRld2y2VopiKVR0I/edit?usp=sharing'
+url_video: 'https://youtu.be/uHc4l35z0Vk'
+url_source: 'https://github.com/ydtydr/MCTensor'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: CD-GraB Paper Figure 1'
+  caption: 'MCTensor Loss Curve on a Linear Regression Task. MCTensor with Float16 could achieve higher precision than vanilla PyTorch Float16 and achieves lower train loss upon the convergence of linear regression model. Image credit: MCTensor Paper Figure 1'
   focal_point: ''
   preview_only: false
 

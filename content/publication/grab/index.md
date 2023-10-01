@@ -35,5 +35,10 @@ featured: true
 #   url: http://example.org
 
 url_pdf: 'https://proceedings.neurips.cc/paper_files/paper/2022/file/3acb49252187efa352a1ae0e4b066ced-Paper-Conference.pdf'
+url_poster: 'https://drive.google.com/file/d/1bElkwm6O5d42qQP0MNN_58cQNoKCf5SW'
 
+image:
+  caption: 'The figure illustrates how Reorder algorithm reorders the vectors with Balancing subroutine - the new order is obtained by concatenating original order of the examples with +1, followed by the reverse order of the examples with -1. Image credit: GraB Paper Figure 1'
+  focal_point: ''
+  preview_only: false
 ---
