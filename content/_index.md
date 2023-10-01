@@ -144,6 +144,19 @@ sections:
         NeurIPS'23, ICLR'24 reviewer
     design:
       columns: '2'
+  - block: markdown
+    content:
+      title: Teaching experience
+      subtitle: ''
+      items: 
+        - title: CS 4787, Large Scale Machine Learning Systems
+          subtitle: Graduate Teaching Assistant
+        - title: CS 4780, Intro to ML
+          subtitle: Graduate Teaching Assistant
+        - title: CS 3110, Data Structures and Functional Programming
+          subtitle: Undergraduate Course Consultant
+    design:
+      columns: '2'
   - block: contact
     id: contact
     content:
