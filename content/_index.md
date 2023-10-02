@@ -58,6 +58,17 @@ sections:
           date_end: '2023-05-31'
           description: I mainly worked on ranking with slot constraints with binary or continuous-valued relevance.
 
+  - block: experience
+    content:
+      title: Engineering Experience
+      # Date format for experience
+      #   Refer to https://wowchemy.com/docs/customization/#date-format
+      date_format: Jan 2006
+      # Experiences.
+      #   Add/remove as many `experience` items below as you like.
+      #   Required fields are `title`, `company`, and `date_start`.
+      #   Leave `date_end` empty if it's your current employer.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Developer Lead
           company: Pathways project, Cornell University
@@ -88,7 +99,7 @@ sections:
           description: I programmed game modules in Unity with C#, created tools to accelerate project loading and compilation time, and analyzed the performance of C# libraries on serialization and deserialization.
 
   - block: portfolio
-    id: projects
+    id: Others
     content:
       title: Ongoing Projects
       filters:
@@ -112,7 +123,6 @@ sections:
       flip_alt_rows: false
 
   - block: markdown
-    id: academic_services
     content:
       title: Academic services
       subtitle: ''
@@ -122,7 +132,6 @@ sections:
       columns: '2'
 
   - block: collection
-    id: teaching
     content:
       title: Teaching Experience
       filters:

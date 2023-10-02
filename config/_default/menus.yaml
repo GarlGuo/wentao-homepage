@@ -20,17 +20,9 @@ main:
     url: '#experience'
     weight: 14
 
-  - name: Ongoing Projects
-    url: '#projects'
+  - name: Others
+    url: '#others'
     weight: 16
-
-  - name: Academic
-    url: '#academic_services'
-    weight: 17
-    
-  - name: Teaching
-    url: '#teaching'
-    weight: 18
   
   - name: Contact
     url: '#contact'
