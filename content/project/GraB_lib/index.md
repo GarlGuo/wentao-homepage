@@ -1,9 +1,11 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: Hyperbolic Learning with MCTensor
+summary: We build all hyperbolic learning models (with manifolds as Halfspace, Lorentz, Poincare, etc.) on top of MCTensor algorithms. 
 tags:
-  - Deep Learning
-date: '2016-04-27T00:00:00Z'
+  - Hyperbolic learning
+  - Efficient high-precision floating-point arithmetic
+
+date: '2023-10-01'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''

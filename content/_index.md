@@ -41,12 +41,12 @@ sections:
       columns: '2'
 
   - block: collection
-    id: publications
+    id: papers
     content:
-      title: Recent Publications
+      title: Recent Publications or Manuscripts
       text: |-
         {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
+        Quickly discover relevant content by [filtering publications or manuscripts](./publication/).
         {{% /callout %}}
       filters:
         folders:
