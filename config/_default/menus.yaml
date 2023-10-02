@@ -20,11 +20,11 @@ main:
     url: '#papers'
     weight: 13
 
-  - name: Research Experience
+  - name: Research
     url: '#research_experience'
     weight: 14
 
-  - name: Engineering Experience
+  - name: Engineering
     url: '#engineering_experience'
     weight: 15
 
@@ -32,7 +32,7 @@ main:
     url: '#projects'
     weight: 16
 
-  - name: Academic Services
+  - name: Academic
     url: '#academic_services'
     weight: 17
     
