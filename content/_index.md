@@ -40,6 +40,21 @@ sections:
       view: compact
       columns: '2'
 
+  - block: collection
+    id: publications
+    content:
+      title: Recent Publications
+      text: |-
+        {{% callout note %}}
+        Quickly discover relevant content by [filtering publications](./publication/).
+        {{% /callout %}}
+      filters:
+        folders:
+          - publication
+    design:
+      columns: '2'
+      view: citation
+
   - block: experience
     id: experience
     content:
@@ -108,21 +123,6 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
-
-  - block: collection
-    id: publications
-    content:
-      title: Recent Publications
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
-      filters:
-        folders:
-          - publication
-    design:
-      columns: '2'
-      view: citation
 
   - block: markdown
     content:
