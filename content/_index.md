@@ -56,9 +56,9 @@ sections:
       view: citation
 
   - block: experience
-    id: experience
+    id: engineering_experience
     content:
-      title: Experience
+      title: Engineering Experience
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006

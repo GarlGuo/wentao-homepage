@@ -7,27 +7,38 @@ main:
   - name: Home
     url: '#about'
     weight: 10
+
   - name: CV
     url: uploads/Resume.pdf
     weight: 11
+
   - name: Posts
     url: '#posts'
     weight: 12
+
   - name: Papers
     url: '#papers'
     weight: 13
-  - name: Experience
-    url: '#experience'
+
+  - name: Research Experience
+    url: '#research_experience'
     weight: 14
+
+  - name: Engineering Experience
+    url: '#engineering_experience'
+    weight: 15
+
   - name: Ongoing Projects
     url: '#projects'
-    weight: 15
+    weight: 16
+    
   - name: Teaching
     url: '#teaching'
-    weight: 16
+    weight: 17
+  
   - name: Contact
     url: '#contact'
-    weight: 17
+    weight: 18
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
