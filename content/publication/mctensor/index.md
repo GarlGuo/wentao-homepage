@@ -46,7 +46,7 @@ url_pdf: 'https://arxiv.org/pdf/2207.08867.pdf'
 url_poster: 'https://docs.google.com/presentation/d/1cvsQn8ArPN_tHx6Ntw1JrBUy-iJ1HsX1LIGNgCT6Wb0'
 url_slide: 'https://docs.google.com/presentation/d/1Gov3DrqyGZZa8whCPPljo1ft42EFRld2y2VopiKVR0I/edit?usp=sharing'
 url_video: 'https://youtu.be/uHc4l35z0Vk'
-url_source: 'https://github.com/ydtydr/MCTensor'
+url_code: 'https://github.com/ydtydr/MCTensor'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
