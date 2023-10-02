@@ -43,10 +43,10 @@ sections:
   - block: collection
     id: papers
     content:
-      title: Recent Publications or Manuscripts
+      title: Recent Papers
       text: |-
         {{% callout note %}}
-        Quickly discover relevant content by [filtering publications or manuscripts](./publication/).
+        Quickly discover relevant content by [filtering papers](./publication/).
         {{% /callout %}}
       filters:
         folders:
