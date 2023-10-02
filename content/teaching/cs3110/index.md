@@ -10,7 +10,7 @@ date_end: '2021-12-31'
 all_day: false
 
 authors: []
-tags: []
+tags: ['Functional Programming']
 
 
 ---

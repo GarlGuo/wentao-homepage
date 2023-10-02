@@ -1,5 +1,5 @@
 ---
-title: Large Scale Machine Learning Systems 
+title: Principles of Large Scale Machine Learning Systems 
 summary: Graduate Teaching Assistant
 
 
@@ -10,7 +10,7 @@ date_end: '2023-12-15'
 all_day: false
 
 authors: []
-tags: []
+tags: ['Machine Learning Systems', 'Machine Learning']
 
 
 ---
