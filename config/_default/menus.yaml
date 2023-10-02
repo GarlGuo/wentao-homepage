@@ -31,14 +31,18 @@ main:
   - name: Ongoing Projects
     url: '#projects'
     weight: 16
+
+  - name: Academic Services
+    url: '#academic_services'
+    weight: 17
     
   - name: Teaching
     url: '#teaching'
-    weight: 17
+    weight: 18
   
   - name: Contact
     url: '#contact'
-    weight: 18
+    weight: 19
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.

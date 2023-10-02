@@ -152,8 +152,9 @@ sections:
       flip_alt_rows: false
 
   - block: markdown
+    id: academic_services
     content:
-      title: Academic service
+      title: Academic services
       subtitle: ''
       text: |-
         NeurIPS'23, ICLR'24 reviewer
