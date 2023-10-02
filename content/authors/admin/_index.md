@@ -24,7 +24,8 @@ bio: My research interests include the model efficiency and data efficiency of f
 # Interests to show in About widget
 interests:
   - Model Efficiency
-  - Data Orderings
+  - Data Efficiency
+  - Foundation Models
   - Distributed Learning
   - Machine Learning Systems
 
