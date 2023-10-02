@@ -99,7 +99,7 @@ sections:
           description: I programmed game modules in Unity with C#, created tools to accelerate project loading and compilation time, and analyzed the performance of C# libraries on serialization and deserialization.
 
   - block: portfolio
-    id: Others
+    id: others
     content:
       title: Ongoing Projects
       filters:
