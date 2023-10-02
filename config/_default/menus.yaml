@@ -4,7 +4,7 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Home
+  - name: Wentao
     url: '#about'
     weight: 10
 
@@ -16,13 +16,9 @@ main:
     url: '#papers'
     weight: 13
 
-  - name: Research
-    url: '#research_experience'
+  - name: Experience
+    url: '#experience'
     weight: 14
-
-  - name: Engineering
-    url: '#engineering_experience'
-    weight: 15
 
   - name: Ongoing Projects
     url: '#projects'

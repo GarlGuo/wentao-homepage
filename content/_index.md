@@ -28,7 +28,7 @@ sections:
       view: citation
 
   - block: experience
-    id: research_experience
+    id: experience
     content:
       title: Research Experience
       # Date format for experience
@@ -54,22 +54,10 @@ sections:
           company_url: ''
           company_logo: cornell
           location: Ithaca, NY
-          date_start: '2022-06-02'
+          date_start: '2022-06-01'
           date_end: '2023-05-31'
           description: I mainly worked on ranking with slot constraints with binary or continuous-valued relevance.
 
-  - block: experience
-    id: engineering_experience
-    content:
-      title: Engineering Experience
-      # Date format for experience
-      #   Refer to https://wowchemy.com/docs/customization/#date-format
-      date_format: Jan 2006
-      # Experiences.
-      #   Add/remove as many `experience` items below as you like.
-      #   Required fields are `title`, `company`, and `date_start`.
-      #   Leave `date_end` empty if it's your current employer.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Developer Lead
           company: Pathways project, Cornell University
