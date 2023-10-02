@@ -68,7 +68,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: https://drive.google.com/file/d/10I8VaW09t1j1pvrXZcAe_kDQq_w3RhdE/view
+    link: https://drive.google.com/file/d/1vIaadcozMtNTgjw4h2QG0kE6M5oXZW9X
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
