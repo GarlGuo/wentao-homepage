@@ -99,7 +99,7 @@ sections:
   - block: portfolio
     id: projects
     content:
-      title: Projects
+      title: Ongoing Projects
       filters:
         folders:
           - project
