@@ -7,6 +7,9 @@ authors:
   - Bradon Thymes
   - Thorsten Joachims
 
+author_notes:
+  - 'Equal contribution'
+  - 'Equal contribution'
 
 date: '2023-10-27'
 doi: ''
