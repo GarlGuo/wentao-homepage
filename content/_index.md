@@ -61,11 +61,11 @@ sections:
         - title: Research Assistant
           company: Prof. Beidi Chen, Cornell University
           company_url: ''
-          company_logo: cornell
-          location: Ithaca, NY
-          date_start: '2022-06-01'
-          date_end: '2023-05-30'
-          description: I mainly worked on [ranking with slot constraints problem](https://arxiv.org/pdf/2310.17870.pdf).
+          company_logo: cmu
+          location: Remote
+          date_start: '2023-06-01'
+          date_end: ''
+          description: I mainly worked on combining Zeroth-order Optimization with Parameter-Efficient Finetuning (so the memory costs of LLM finetuning are only bounded by the largest matmul in eval mode), while ensuring a reasonable performance with a reasonable finetuning time. I also collaborated to investigate the training dynamics of Attention score matrix. 
 
   - block: experience
     content:
