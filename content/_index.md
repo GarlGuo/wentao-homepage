@@ -46,8 +46,8 @@ sections:
           company_logo: cornell
           location: Ithaca, NY
           date_start: '2021-06-01'
-          date_end: ''
-          description: I mainly worked on (distributed) data orderings that produced the [CD-GraB](https://arxiv.org/pdf/2302.00845.pdf) and [GraB](https://proceedings.neurips.cc/paper_files/paper/2022/file/3acb49252187efa352a1ae0e4b066ced-Paper-Conference.pdf) paper, and efficient high-precision floating-point arithmetic for hyperbolic learning as [MCTensor](https://arxiv.org/pdf/2207.08867.pdf).
+          date_end: '2023-05-31'
+          description: I mainly worked on (distributed) data orderings that produced the [CD-GraB](https://arxiv.org/pdf/2302.00845.pdf) and [GraB](https://proceedings.neurips.cc/paper_files/paper/2022/file/3acb49252187efa352a1ae0e4b066ced-Paper-Conference.pdf) paper, and efficient high-precision floating-point arithmetic for hyperbolic learning as [MCTensor](https://arxiv.org/pdf/2207.08867.pdf) and [HTorch](https://github.com/ydtydr/HTorch).
       
         - title: Research Assistant
           company: Prof. Thorsten Joachicms, Cornell University
@@ -55,8 +55,17 @@ sections:
           company_logo: cornell
           location: Ithaca, NY
           date_start: '2022-06-01'
-          date_end: '2023-05-31'
-          description: I mainly worked on ranking with slot constraints with binary or continuous-valued relevance.
+          date_end: '2023-05-30'
+          description: I mainly worked on [ranking with slot constraints problem](https://arxiv.org/pdf/2310.17870.pdf).
+
+        - title: Research Assistant
+          company: Prof. Beidi Chen, Cornell University
+          company_url: ''
+          company_logo: cornell
+          location: Ithaca, NY
+          date_start: '2022-06-01'
+          date_end: '2023-05-30'
+          description: I mainly worked on [ranking with slot constraints problem](https://arxiv.org/pdf/2310.17870.pdf).
 
   - block: experience
     content:
