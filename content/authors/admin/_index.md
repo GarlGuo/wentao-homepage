@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Wentao Guo 郭文韬
+title: Wentao Guo
 
 # Full name (for SEO)
 first_name: Wentao
@@ -23,9 +23,8 @@ bio: I am a CS MEng student at Cornell. My research interests include improving 
 
 # Interests to show in About widget
 interests:
-  - Model Efficiency
-  - Data Efficiency
-  - Foundation Models
+  - Model-Efficient ML
+  - Data-Efficient ML
   - Distributed Learning
   - Machine Learning Systems
 
