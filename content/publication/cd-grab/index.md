@@ -36,7 +36,7 @@ abstract: Recent research on online Gradient Balancing (GraB) has revealed that 
 tags: []
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:
