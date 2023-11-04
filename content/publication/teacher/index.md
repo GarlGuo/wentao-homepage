@@ -7,8 +7,6 @@ authors:
   - Wentao Guo
   - Tushaar Gangavarapu
 
-author_notes: ''
-
 
 date: '2023-07-09'
 doi: ''
@@ -31,3 +29,4 @@ featured: false
 
 
 url_pdf: 'https://aclanthology.org/2023.bea-1.60.pdf'
+---
