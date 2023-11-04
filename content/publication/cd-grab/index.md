@@ -45,6 +45,7 @@ featured: true
 
 url_pdf: 'https://openreview.net/pdf?id=ISRyILhAyS'
 url_poster: 'https://docs.google.com/presentation/d/1FqOM5P4Mp5WdC54fNvLYnyK8TCRhfqHftg7ayFJrBA8'
+url_code: 'https://github.com/GarlGuo/CD-GraB'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
