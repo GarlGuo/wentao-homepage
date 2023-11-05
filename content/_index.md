@@ -47,7 +47,7 @@ sections:
           location: Remote
           date_start: '2023-06-01'
           date_end: ''
-          description: I mainly worked on combining zeroth-order optimization with prompt tuning, while ensuring a reasonable performance with a reasonable finetuning time. I also collaborated to investigate the training dynamics of attention weight matrix. 
+          description: I mainly worked on (1) combining zeroth-order optimization with prompt tuning, while ensuring a reasonable performance with a reasonable finetuning time (2) investigated the token separation behavior of attention matrix. 
 
         - title: Research Assistant
           company: Prof. Christopher De Sa, Cornell University
@@ -64,7 +64,7 @@ sections:
           company_logo: cornell
           location: Ithaca, NY
           date_start: '2022-06-01'
-          date_end: '2023-05-30'
+          date_end: '2023-02-01'
           description: I mainly worked on [ranking with slot constraints problem](https://arxiv.org/pdf/2310.17870.pdf).
 
   - block: experience
