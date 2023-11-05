@@ -38,6 +38,9 @@ education:
     - course: B.S. in Computer Science with Honors
       institution: Cornell University, GPA 3.890
       year: 2022
+    - course: Non-degree, Cornell Study-away Program
+      institution: Tsinghua University, GPA 3.80
+      year: 2020
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
