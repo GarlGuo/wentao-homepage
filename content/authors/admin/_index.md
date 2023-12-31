@@ -19,13 +19,11 @@ organizations:
     url: https://www.cs.cornell.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a CS MEng student at Cornell. My research interests include improving model and data efficiency in ML algorithms, and generally building an efficient, accessible, and reliable machine learning system.
+bio: I am a CS MEng student at Cornell. My research interests include improving the efficiency of ML algorithms, and generally building an efficient, accessible, and reliable machine learning system.
 
 # Interests to show in About widget
 interests:
-  - Model-Efficient ML
-  - Data-Efficient ML
-  - Distributed Learning
+  - Efficient and Scalable ML algorithms
   - Machine Learning Systems
 
 
@@ -70,7 +68,6 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: https://drive.google.com/file/d/1vIaadcozMtNTgjw4h2QG0kE6M5oXZW9X
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -79,6 +76,8 @@ email: ''
 highlight_name: true
 ---
 
-Wentao Guo is a CS MEng student at Cornell University. His research interests include improving model and data efficiency in ML algorithms, and generally building an efficient, accessible, and reliable machine learning system. His research is advised by [Prof. Thorsten Joachims](https://www.cs.cornell.edu/people/tj/), [Prof. Christopher De Sa](https://www.cs.cornell.edu/~cdesa/), and [Prof. Beidi Chen](https://www.andrew.cmu.edu/user/beidic/). He was a former developer lead for the [Pathways project](https://pathways.cornell.edu/) and a backend developer and tester lead for the [CMSX team](https://www.cs.cornell.edu/Projects/cms/cmsx/). He also obtained his B.S. degree in CS with Honors (Magna Cum Laude) from Cornell University.
+Wentao Guo is a CS MEng student at Cornell University. His research interests include improving model and data efficiency in ML algorithms, and generally building an efficient, accessible, and reliable machine learning system. His research is advised by [Prof. Beidi Chen](https://www.andrew.cmu.edu/user/beidic/), [Prof. Christopher De Sa](https://www.cs.cornell.edu/~cdesa/), and [Prof. Thorsten Joachims](https://www.cs.cornell.edu/people/tj/). 
+
+He was a former developer lead for the [Pathways project](https://pathways.cornell.edu/) and a backend developer and tester lead for the [CMSX team](https://www.cs.cornell.edu/Projects/cms/cmsx/). He also obtained his B.S. degree in CS with Honors (Magna Cum Laude) from Cornell University.
 
 {style="text-align: justify;"}

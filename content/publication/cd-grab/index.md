@@ -1,5 +1,5 @@
 ---
-title: 'CD-GraB: Coordinating Distributed Example Orders for Provably Accelerated Training'
+title: 'Coordinating Distributed Example Orders for Provably Accelerated Training'
 
 authors:
   - A. Feder Cooper
@@ -44,7 +44,7 @@ featured: true
 #   url: http://example.org
 
 url_pdf: 'https://openreview.net/pdf?id=ISRyILhAyS'
-url_poster: 'https://docs.google.com/presentation/d/1FqOM5P4Mp5WdC54fNvLYnyK8TCRhfqHftg7ayFJrBA8'
+url_poster: 'https://docs.google.com/presentation/d/1t3zp4-4bu7gZcFs-gJL0okiSw_0hd01X/edit?usp=sharing'
 url_code: 'https://github.com/GarlGuo/CD-GraB'
 
 # Featured image
