@@ -56,7 +56,7 @@ sections:
           location: Ithaca, NY
           date_start: '2021-06-01'
           date_end: '2023-05-31'
-          description: I mainly worked on (distributed) data orderings that produced the [CD-GraB](https://openreview.net/pdf?id=ISRyILhAyS) and [GraB](https://proceedings.neurips.cc/paper_files/paper/2022/file/3acb49252187efa352a1ae0e4b066ced-Paper-Conference.pdf) paper, and efficient high-precision floating-point arithmetic for hyperbolic representation learning as [MCTensor](https://arxiv.org/pdf/2207.08867.pdf) and [HTorch](https://github.com/ydtydr/HTorch).
+          description: I mainly worked on (distributed) example orderings that produced the [CD-GraB](https://openreview.net/pdf?id=ISRyILhAyS) and [GraB](https://proceedings.neurips.cc/paper_files/paper/2022/file/3acb49252187efa352a1ae0e4b066ced-Paper-Conference.pdf) paper, and efficient high-precision floating-point arithmetic for hyperbolic representation learning as [MCTensor](https://arxiv.org/pdf/2207.08867.pdf) and [HTorch](https://github.com/ydtydr/HTorch).
       
         - title: Research Assistant
           company: Prof. Thorsten Joachims, Cornell University
@@ -87,16 +87,16 @@ sections:
           date_start: '2021-06-01'
           date_end: '2023-05-31'
           description: |2-
-              I constructed backend codebases with Flask and MongoDB, designed search algorithms that provided diverse suggestions on course enrollment choices, and iterated search algorithms from students’ feedback. I deployed and maintained the [website](https://pathways.cornell.edu/) to serve 3000 Cornell students. 
+              I designed search algorithms that provided diverse suggestions on course enrollment choices, constructed the backend codebase with Flask and MongoDB, and iterated search algorithms from students' feedback. I deployed and maintained the [Pathways website](https://pathways.cornell.edu/) to serve 3000 Cornell students. 
       
         - title: CMSX Backend Developer & Tester Lead
-          company: CMS Project, Cornell University
+          company: CMSX Project, Cornell University
           company_url: ''
           company_logo: cmsx
           location: Ithaca, NY
           date_start: '2019-09-01'
           date_end: '2022-05-31'
-          description: I fixed 10s MySQL and Java production bugs on backend, created 75 and reviewed 76 peer’s pull requests, and supervised new members and held weekly meetings to manage the team. The [website](https://www.cs.cornell.edu/Projects/cms/cmsx/) serves more than 8000 students in over 100 courses in Cornell University.
+          description: I fixed tens of production system bugs in Java and MySQL, contributed more than 11,000 lines of code, reviewed 76 peer's pull requests, and supervised new members and held weekly meetings to manage the team. The [CMSX website](https://www.cs.cornell.edu/Projects/cms/cmsx/) serves more than 8000 students in over 100 courses in Cornell University.
 
         - title: Game Development Intern
           company: Tencent
@@ -105,7 +105,7 @@ sections:
           location: Shenzhen, China
           date_start: '2020-06-15'
           date_end: '2020-08-15'
-          description: I programmed game modules in Unity with C#, created tools to accelerate project loading and compilation time, and analyzed the performance of C# libraries on serialization and deserialization.
+          description: I programmed game modules in Unity with C#, created tools to accelerate the loading time of Visual Studio projects, and benchmarked the performance of C# libraries on serialization and deserialization.
 
   - block: portfolio
     id: others
@@ -136,7 +136,7 @@ sections:
       title: Academic services
       subtitle: ''
       text: |-
-        NeurIPS'23, ICLR'24 reviewer
+        NeurIPS'23, ICLR'24, DMLR journal (upcoming) reviewer
     design:
       columns: '2'
 

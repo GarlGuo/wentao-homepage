@@ -1,5 +1,5 @@
 ---
-title: Intro to ML
+title: Intro to Machine Learning
 summary: Graduate Teaching Assistant
 
 
