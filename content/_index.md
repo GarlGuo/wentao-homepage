@@ -47,7 +47,7 @@ sections:
           location: Remote
           date_start: '2023-06-01'
           date_end: ''
-          description: I mainly worked on (1) combining zeroth-order optimization with prompt tuning, while ensuring a reasonable performance with a reasonable finetuning time (2) investigated the token separation behavior of attention matrix. 
+          description: I mainly worked on potential applications of zeroth-order optimization methods on memory-efficient LLM finetuning. 
 
         - title: Research Assistant
           company: Prof. Christopher De Sa, Cornell University

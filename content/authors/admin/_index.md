@@ -31,7 +31,7 @@ interests:
 education:
   courses:
     - course: MEng in Computer Science
-      institution: Cornell University, GPA 4.031
+      institution: Cornell University, GPA 3.993
       year: 2023
     - course: B.S. in Computer Science with Honors
       institution: Cornell University, GPA 3.890
