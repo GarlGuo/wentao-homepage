@@ -15,8 +15,8 @@ role: Incoming CS PhD student @ Princeton
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Cornell University
-    url: https://www.cs.cornell.edu/
+  - name: Princeton University
+    url: https://www.cs.princeton.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am an incoming CS PhD student at Princeton University. My research interests include improving the efficiency of ML algorithms, and generally building an efficient, accessible, and reliable machine learning system.
