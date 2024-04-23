@@ -46,7 +46,7 @@ sections:
           company_logo: cmu
           location: Remote
           date_start: '2023-06-01'
-          date_end: ''
+          date_end: '2024-05-22'
           description: I mainly worked on potential applications of zeroth-order optimization methods on memory-efficient LLM finetuning. 
 
         - title: Research Assistant
