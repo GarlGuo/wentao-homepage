@@ -11,7 +11,7 @@ last_name: Guo
 superuser: true
 
 # Role/position/tagline
-role: incoming CS PhD student @ Princeton
+role: Incoming CS PhD student @ Princeton
 
 # Organizations/Affiliations to show in About widget
 organizations:
