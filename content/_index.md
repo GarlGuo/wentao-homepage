@@ -136,7 +136,7 @@ sections:
       title: Academic services
       subtitle: ''
       text: |-
-        NeurIPS'23, ICLR'24, DMLR journal (upcoming) reviewer
+        NeurIPS'23, ICLR'24, ICML'24, KDD'24, DMLR journal (upcoming) reviewer
     design:
       columns: '2'
 
@@ -156,7 +156,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        I am looking for a PhD position starting in Fall 2024. Please feel free to contact me!
+        Please feel free to contact me!
       # Contact (add or remove contact options as necessary)
       email: wg247@cornell.edu
       phone: 607 262 9493

@@ -11,7 +11,7 @@ last_name: Guo
 superuser: true
 
 # Role/position/tagline
-role: CS MEng student @ Cornell
+role: incoming CS Ph.D. student @ Princeton
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -19,7 +19,7 @@ organizations:
     url: https://www.cs.cornell.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a CS MEng student at Cornell. My research interests include improving the efficiency of ML algorithms, and generally building an efficient, accessible, and reliable machine learning system.
+bio: I am an incoming CS PhD student at Princeton University. My research interests include improving the efficiency of ML algorithms, and generally building an efficient, accessible, and reliable machine learning system.
 
 # Interests to show in About widget
 interests:
@@ -30,6 +30,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
+    - course: Ph.D. in Computer Science (incoming)
+      institution: Princeton University
+      year: 2029
     - course: MEng in Computer Science
       institution: Cornell University, GPA 3.993
       year: 2023
@@ -76,7 +79,7 @@ email: ''
 highlight_name: true
 ---
 
-Wentao Guo is a CS MEng student at Cornell University. His research interests include improving model and data efficiency in ML algorithms, and generally building an efficient, accessible, and reliable machine learning system. His research is advised by [Prof. Beidi Chen](https://www.andrew.cmu.edu/user/beidic/), [Prof. Christopher De Sa](https://www.cs.cornell.edu/~cdesa/), and [Prof. Thorsten Joachims](https://www.cs.cornell.edu/people/tj/). 
+Wentao Guo is an incoming CS PhD student at Princeton University. His research interests include improving model and data efficiency in ML algorithms, and generally building an efficient, accessible, and reliable machine learning system. His research is advised by [Prof. Beidi Chen](https://www.andrew.cmu.edu/user/beidic/), [Prof. Christopher De Sa](https://www.cs.cornell.edu/~cdesa/), and [Prof. Thorsten Joachims](https://www.cs.cornell.edu/people/tj/). 
 
 He was a former developer lead for the [Pathways project](https://pathways.cornell.edu/) and a backend developer and tester lead for the [CMSX team](https://www.cs.cornell.edu/Projects/cms/cmsx/). He also obtained his B.S. degree in CS with Honors (Magna Cum Laude) from Cornell University.
 
