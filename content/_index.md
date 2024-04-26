@@ -98,14 +98,14 @@ sections:
           date_end: '2022-05-31'
           description: I fixed tens of production system bugs in Java and MySQL, contributed more than 11,000 lines of code, reviewed 76 peer's pull requests, and supervised new members and held weekly meetings to manage the team. The [CMSX website](https://www.cs.cornell.edu/Projects/cms/cmsx/) serves more than 8000 students in over 100 courses in Cornell University.
 
-        - title: Game Development Intern
-          company: Tencent
-          company_url: ''
-          company_logo: qq-mobile
-          location: Shenzhen, China
-          date_start: '2020-06-15'
-          date_end: '2020-08-15'
-          description: I programmed game modules in Unity with C#, created tools to accelerate the loading time of Visual Studio projects, and benchmarked the performance of C# libraries on serialization and deserialization.
+        # - title: Game Development Intern
+        #   company: Tencent
+        #   company_url: ''
+        #   company_logo: qq-mobile
+        #   location: Shenzhen, China
+        #   date_start: '2020-06-15'
+        #   date_end: '2020-08-15'
+        #   description: I programmed game modules in Unity with C#, created tools to accelerate the loading time of Visual Studio projects, and benchmarked the performance of C# libraries on serialization and deserialization.
 
   - block: portfolio
     id: others

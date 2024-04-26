@@ -32,7 +32,6 @@ education:
   courses:
     - course: Ph.D. in Computer Science (incoming)
       institution: Princeton University
-      year: 2029
     - course: MEng. in Computer Science
       institution: Cornell University, GPA 3.993
       year: 2023
