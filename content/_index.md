@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title:
-date: 2024-8-28
+date: 2024-9-21
 type: landing
 
 sections:
@@ -159,7 +159,7 @@ sections:
         Please feel free to contact me!
       # Contact (add or remove contact options as necessary)
       email: wg0420@princeton.edu
-      phone: 607 262 9493
+      # phone: 607 262 9493
       address:
         city: Princeton
         region: NJ
@@ -174,7 +174,7 @@ sections:
         - icon: video
           icon_pack: fas
           name: Zoom
-          link: 'https://cornell.zoom.us/j/9666296642?pwd=VEtjTTdCeTRtcWxsUmk5NTlMQ1ZuUT09'
+          link: 'https://princeton.zoom.us/my/wentaog'
       # Automatically link email and phone or display as text?
       autolink: true
     design:
