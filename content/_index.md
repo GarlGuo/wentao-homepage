@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title:
-date: 2024-9-21
+date: 2025-1-21
 type: landing
 
 sections:
@@ -57,7 +57,7 @@ sections:
           date_start: '2021-06-01'
           date_end: '2023-05-31'
           description: I worked on (distributed) example orderings that produced the [CD-GraB](https://openreview.net/pdf?id=ISRyILhAyS) and [GraB](https://proceedings.neurips.cc/paper_files/paper/2022/file/3acb49252187efa352a1ae0e4b066ced-Paper-Conference.pdf) paper, and efficient high-precision floating-point arithmetic for hyperbolic representation learning as [MCTensor](https://arxiv.org/pdf/2207.08867.pdf) and [HTorch](https://github.com/ydtydr/HTorch).
-      
+  
         - title: Research Assistant
           company: Prof. Thorsten Joachims, Cornell University
           company_url: ''
@@ -88,7 +88,7 @@ sections:
   #         date_end: '2023-05-31'
   #         description: |2-
   #             I designed search algorithms that provided diverse suggestions on course enrollment choices, constructed the backend codebase with Flask and MongoDB, and iterated search algorithms from students' feedback. I deployed and maintained the [Pathways website](https://pathways.cornell.edu/) to serve 3000 Cornell students. 
-      
+  
   #       - title: CMSX Backend Developer & Tester Lead
   #         company: CMSX Project, Cornell University
   #         company_url: ''
