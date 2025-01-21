@@ -19,12 +19,13 @@ organizations:
     url: https://www.cs.princeton.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a first-year CS PhD student at Princeton University advised by Prof. Tri Dao. My research interests include improving the efficiency of LLMs across training and inference. 
+# bio: I am an incoming CS PhD student at Princeton University. My research interests include improving the efficiency of ML algorithms, and generally building an efficient, accessible, and reliable machine learning system.
+bio: I am a CS PhD student at Princeton University. My research interests include improving the efficiency of LLMs during fine-tuning and deployment. 
 
 # Interests to show in About widget
 interests:
   - LLM efficiency
-  - Efficient ML algorithms
+  - Efficient and Scalable ML algorithms
   - Machine Learning Systems
 
 
@@ -75,7 +76,12 @@ email: ''
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
-- ---
-- Wentao Guo is a first-year CS PhD student at Princeton University. His research advisor is [Prof. Tri Dao](https://tridao.me/). His prior research was advised by [Prof. Beidi Chen](https://www.andrew.cmu.edu/user/beidic/), [Prof. Christopher De Sa](https://www.cs.cornell.edu/~cdesa/), and [Prof. Thorsten Joachims](https://www.cs.cornell.edu/people/tj/). He obtained his both master's and bachelor's degrees (Magna Cum Laude) in Computer Science from Cornell University.
--
-- {style="text-align: justify;"}
+---
+
+<!-- Wentao Guo is an incoming CS PhD student at Princeton University. His research interests include improving model and data efficiency in ML algorithms, and generally building an efficient, accessible, and reliable machine learning system. His research is advised by [Prof. Beidi Chen](https://www.andrew.cmu.edu/user/beidic/), [Prof. Christopher De Sa](https://www.cs.cornell.edu/~cdesa/), and [Prof. Thorsten Joachims](https://www.cs.cornell.edu/people/tj/). 
+
+He was a former developer lead for the [Pathways project](https://pathways.cornell.edu/) and a backend developer and tester lead for the [CMSX team](https://www.cs.cornell.edu/Projects/cms/cmsx/). He obtained his master's and bachelor's degrees in Computer Science (Magna Cum Laude) from Cornell University. -->
+
+Wentao Guo is an incoming CS PhD student at Princeton University. His research advisor is [Prof. Tri Dao](https://tridao.me/). His prior research was advised by [Prof. Beidi Chen](https://www.andrew.cmu.edu/user/beidic/), [Prof. Christopher De Sa](https://www.cs.cornell.edu/~cdesa/), and [Prof. Thorsten Joachims](https://www.cs.cornell.edu/people/tj/). He obtained his both master's and bachelor's degrees (Magna Cum Laude) in Computer Science from Cornell University.
+
+{style="text-align: justify;"}
