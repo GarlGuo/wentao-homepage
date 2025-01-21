@@ -19,7 +19,7 @@ organizations:
     url: https://www.cs.princeton.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a first-year CS PhD student at Princeton University advised by ![Prof. Tri Dao](https://tridao.me/). My research interests include improving the efficiency of LLMs across training and inference. 
+bio: I am a first-year CS PhD student at Princeton University advised by Prof. Tri Dao. My research interests include improving the efficiency of LLMs across training and inference. 
 
 # Interests to show in About widget
 interests:
