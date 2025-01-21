@@ -75,3 +75,8 @@ email: ''
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
+
+
+- Wentao Guo is a first-year CS PhD student at Princeton University. His research advisor is [Prof. Tri Dao](https://tridao.me/). His prior research was advised by [Prof. Beidi Chen](https://www.andrew.cmu.edu/user/beidic/), [Prof. Christopher De Sa](https://www.cs.cornell.edu/~cdesa/), and [Prof. Thorsten Joachims](https://www.cs.cornell.edu/people/tj/). He obtained his both master's and bachelor's degrees (Magna Cum Laude) in Computer Science from Cornell University.
+
+- {style="text-align: justify;"}
