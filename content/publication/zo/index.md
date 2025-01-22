@@ -15,22 +15,22 @@ authors:
   - Beidi Chen
   - Zhaozhuo Xu
 
-date: '2024-07-01'
+date: '2025-01-22'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2024-07-01'
+publishDate: '2025-01-22'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['article']
+publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In Workshop on Efficient Systems for Foundation Models in the Forty-First International Conference on Machine Learning
-publication_short: In ES-FOMO II workshop at ICML'24
+publication: In 
+publication_short: In ICLR'25.
 
-abstract: Zeroth-order optimization (ZO) is a memory-efficient strategy for fine-tuning Large Language Models using only forward passes. However, the application of ZO fine-tuning in memory-constrained settings such as mobile phones and laptops is still challenging since full precision forward passes are infeasible. In this study, we address this limitation by integrating sparsity and quantization into ZO fine-tuning of LLMs. Specifically, we investigate the feasibility of fine-tuning an extremely small subset of LLM parameters using ZO. This approach allows the majority of un-tuned parameters to be quantized to accommodate the constraint of limited device memory. Our findings reveal that the pre-training process can identify a set of "sensitive parameters" that can guide the ZO fine-tuning of LLMs on downstream tasks. Our results demonstrate that fine-tuning 0.1% sensitive parameters in the LLM with ZO can outperform the full ZO fine-tuning performance, while offering wall-clock time speedup. Additionally, we show that ZO fine-tuning targeting these 0.1% sensitive parameters, combined with 4 bit quantization, enables efficient ZO fine-tuning of an Llama2-7B model on a GPU device with less than 8 GiB of memory and notably reduced latency.
+abstract: Zeroth-order optimization (ZO) is a memory-efficient strategy for fine-tuning Large Language Models using only forward passes. However, applying ZO fine-tuning in memory-constrained settings such as mobile phones and laptops remains challenging since these settings often involve weight quantization, while ZO requires full-precision perturbation and update. In this study, we address this limitation by combining static sparse ZO fine-tuning with quantization. Our approach transfers a small, static subset (0.1%) of "sensitive" parameters from pre-training to downstream tasks, focusing fine-tuning on this sparse set of parameters. The remaining untuned parameters are quantized, reducing memory demands. Our proposed workflow enables efficient ZO fine-tuning of an Llama2-7B model on a GPU device with less than 8GiB of memory while outperforming full model ZO fine-tuning performance and in-context learning.
 
 tags: []
 
@@ -42,7 +42,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/pdf/2406.02913'
+url_pdf: 'https://openreview.net/pdf?id=myYzr50xBh'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
