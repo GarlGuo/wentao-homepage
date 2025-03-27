@@ -47,7 +47,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:wg0420@princeton.com'
+    link: 'mailto:wg0420@princeton.edu'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/WentaoGuo7
@@ -76,6 +76,6 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Wentao Guo is a first-year CS PhD student at Princeton University. His research advisor is [Prof. Tri Dao](https://tridao.me/). His prior research was advised by [Prof. Beidi Chen](https://www.andrew.cmu.edu/user/beidic/), [Prof. Christopher De Sa](https://www.cs.cornell.edu/~cdesa/), and [Prof. Thorsten Joachims](https://www.cs.cornell.edu/people/tj/). He obtained his both master's and bachelor's degrees (Magna Cum Laude) in Computer Science from Cornell University.
+Wentao Guo is a CS PhD student at Princeton University. His research advisor is [Prof. Tri Dao](https://tridao.me/). His prior research was advised by [Prof. Beidi Chen](https://www.andrew.cmu.edu/user/beidic/), [Prof. Christopher De Sa](https://www.cs.cornell.edu/~cdesa/), and [Prof. Thorsten Joachims](https://www.cs.cornell.edu/people/tj/). He obtained his both master's and bachelor's degrees in Computer Science from Cornell University.
 
 {style="text-align: justify;"}

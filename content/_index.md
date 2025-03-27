@@ -47,7 +47,7 @@ sections:
           location: Remote
           date_start: '2023-06-01'
           date_end: '2024-05-22'
-          description: I worked on [efficient sparse fine-tuning of LLMs with zeroth-order optimization methods](https://openreview.net/pdf?id=pW4MmsnVRq). 
+          description: I worked on [efficient sparse fine-tuning of LLMs with zeroth-order optimization methods](https://openreview.net/pdf?id=myYzr50xBh). 
 
         - title: Research Assistant
           company: Prof. Christopher De Sa, Cornell University
