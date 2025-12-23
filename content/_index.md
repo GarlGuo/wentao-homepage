@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title:
-date: 2025-1-21
+date: 2025-12-22
 type: landing
 
 sections:
@@ -30,7 +30,7 @@ sections:
   - block: experience
     id: experience
     content:
-      title: Research Experience
+      title: Prior Research Experience
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -136,7 +136,7 @@ sections:
       title: Academic services
       subtitle: ''
       text: |-
-        NeurIPS'23, ICLR'24, ICML'24, KDD'24, Journal of DMLR, NeurIPS'24, ICLR'25 reviewer
+        NeurIPS'23, ICLR'24, ICML'24, KDD'24, Journal of DMLR, NeurIPS'24, ICLR'25, NeurIPS'25, ICLR'26 reviewer
     design:
       columns: '2'
 

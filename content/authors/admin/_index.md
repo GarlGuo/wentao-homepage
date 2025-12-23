@@ -19,7 +19,7 @@ organizations:
     url: https://www.cs.princeton.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a first-year CS PhD student at Princeton University advised by Prof. Tri Dao. My research interests include improving the efficiency of LLMs across training and inference. 
+bio: I am a second-year CS PhD student at Princeton University advised by Prof. Tri Dao. I am obsessed by the sweet intersection of hardware efficiency and ML model architecture design, and I want to contextualize the expressiveness of ML models among the principles of hardware efficiency. 
 
 # Interests to show in About widget
 interests:
@@ -76,6 +76,6 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Wentao Guo is a CS PhD student at Princeton University. His research advisor is [Prof. Tri Dao](https://tridao.me/). His prior research was advised by [Prof. Beidi Chen](https://www.andrew.cmu.edu/user/beidic/), [Prof. Christopher De Sa](https://www.cs.cornell.edu/~cdesa/), and [Prof. Thorsten Joachims](https://www.cs.cornell.edu/people/tj/). He obtained his both master's and bachelor's degrees in Computer Science from Cornell University.
+Wentao Guo is a CS PhD student at Princeton University. His research advisor is [Prof. Tri Dao](https://tridao.me/). He obtained his both master's and bachelor's degrees in Computer Science from Cornell University.
 
 {style="text-align: justify;"}
