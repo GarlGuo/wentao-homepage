@@ -76,6 +76,6 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Wentao Guo is a CS PhD student at Princeton University. His research advisor is [Prof. Tri Dao](https://tridao.me/). He obtained his both master's and bachelor's degrees in Computer Science from Cornell University.
+Wentao Guo is a CS PhD student at Princeton University. His research advisor is [Prof. Tri Dao](https://tridao.me/). He obtained his both master's and bachelor's degrees in Computer Science from Cornell University. He mainly works on the intersection of hardware efficiency and ML model architecture design.
 
 {style="text-align: justify;"}
