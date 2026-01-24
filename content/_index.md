@@ -136,7 +136,7 @@ sections:
       title: Academic services
       subtitle: ''
       text: |-
-        NeurIPS'23, ICLR'24, ICML'24, KDD'24, Journal of DMLR, NeurIPS'24, ICLR'25, NeurIPS'25, ICLR'26 reviewer
+        Reviewer: NeurIPS ('23, '24, '25), ICLR ('24, '25, '26), ICML ('24), KDD ('24), Journal of DMLR, ACL RR (06/24, 10/24), ICML ES-FoMo workshop ('24, '25), COLM ('25, '26)
     design:
       columns: '2'
 
