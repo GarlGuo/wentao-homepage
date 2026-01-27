@@ -28,7 +28,7 @@ publication_types: ['article']
 
 # Publication name and optional abbreviated publication name.
 publication: Hardware-aware Efficient Training Workshop in The Thirty-ninth International Conference on Machine Learning
-publication_short: In HAET workshop at ICML'22
+publication_short: HAET workshop at ICML'22
 
 abstract: In this paper, we introduce MCTensor, a library based on PyTorch for providing general-purpose and high-precision arithmetic for DL training. MCTensor is used in the same way as PyTorch Tensor. We implement multiple basic, matrix-level computation operators and NN modules for MCTensor with identical PyTorch interface. Our algorithms achieve high precision computation and also benefits from heavily-optimized PyTorch floating-point arithmetic. We evaluate MCTensor arithmetic against PyTorch native arithmetic for a series of tasks, where models using MCTensor in float16 would match or outperform the PyTorch model with float32 or float64 precision.
 
